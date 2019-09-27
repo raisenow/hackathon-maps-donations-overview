@@ -4,6 +4,8 @@ Maps Donation Overview
 This repository holds the code developed together with representatives of [SOLAFRICA](https://solafrica.ch/)
 during the Hackathon at the RaiseNow Inspire 2019.
 
+![Map Example](assets/donation-overview.png)
+
 
 ## Getting Started
 
