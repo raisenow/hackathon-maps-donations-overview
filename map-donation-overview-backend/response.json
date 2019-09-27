@@ -1,0 +1,95 @@
+{
+  "maxAmount": 890655,
+  "aggregations": {
+    "Z\u00fcrich": {
+      "name": "Z\u00fcrich",
+      "numberOfDonations": 100,
+      "donationAmount": 803040
+    },
+    "Aargau": {
+      "name": "Aargau",
+      "numberOfDonations": 25,
+      "donationAmount": 114730
+    },
+    "Gen\u00e8ve": {
+      "name": "Gen\u00e8ve",
+      "numberOfDonations": 15,
+      "donationAmount": 56500
+    },
+    "Bern": {
+      "name": "Bern",
+      "numberOfDonations": 92,
+      "donationAmount": 890655
+    },
+    "Basel-S": {
+      "name": "Basel-S",
+      "numberOfDonations": 18,
+      "donationAmount": 141000
+    },
+    "Luzern": {
+      "name": "Luzern",
+      "numberOfDonations": 25,
+      "donationAmount": 113170
+    },
+    "Solothurn": {
+      "name": "Solothurn",
+      "numberOfDonations": 24,
+      "donationAmount": 423500
+    },
+    "Schaffhausen": {
+      "name": "Schaffhausen",
+      "numberOfDonations": 5,
+      "donationAmount": 29000
+    },
+    "Valais": {
+      "name": "Valais",
+      "numberOfDonations": 2,
+      "donationAmount": 4000
+    },
+    "Basel-L": {
+      "name": "Basel-L",
+      "numberOfDonations": 5,
+      "donationAmount": 34000
+    },
+    "Thurgau": {
+      "name": "Thurgau",
+      "numberOfDonations": 4,
+      "donationAmount": 14000
+    },
+    "St. Gallen": {
+      "name": "St. Gallen",
+      "numberOfDonations": 10,
+      "donationAmount": 95050
+    },
+    "Jura": {
+      "name": "Jura",
+      "numberOfDonations": 1,
+      "donationAmount": 100
+    },
+    "Nidwalden": {
+      "name": "Nidwalden",
+      "numberOfDonations": 2,
+      "donationAmount": 8000
+    },
+    "Uri": {
+      "name": "Uri",
+      "numberOfDonations": 1,
+      "donationAmount": 2000
+    },
+    "Ticino": {
+      "name": "Ticino",
+      "numberOfDonations": 1,
+      "donationAmount": 100000
+    },
+    "Graub\u00fcnden": {
+      "name": "Graub\u00fcnden",
+      "numberOfDonations": 2,
+      "donationAmount": 42000
+    },
+    "Schwyz": {
+      "name": "Schwyz",
+      "numberOfDonations": 1,
+      "donationAmount": 3000
+    }
+  }
+}
